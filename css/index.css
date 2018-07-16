@@ -144,6 +144,13 @@ table td {
     padding-left: 0 !important;
   }
 }
+.MathJax_Display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.MathJax {
+  outline: 0;
+}
 pre,
 .highlight {
   overflow: auto;
